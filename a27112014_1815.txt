@@ -1,0 +1,8 @@
+/home/pi/picam/jpg/27112014_1815/a1.jpg
+/home/pi/picam/jpg/27112014_1815/a2.jpg
+/home/pi/picam/jpg/27112014_1815/a3.jpg
+/home/pi/picam/jpg/27112014_1815/a4.jpg
+/home/pi/picam/jpg/27112014_1815/a5.jpg
+/home/pi/picam/jpg/27112014_1815/a6.jpg
+/home/pi/picam/jpg/27112014_1815/a7.jpg
+/home/pi/picam/jpg/27112014_1815/a8.jpg

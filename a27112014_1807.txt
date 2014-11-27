@@ -1,0 +1,11 @@
+/home/pi/picam/jpg/27112014_1807/a1.jpg
+/home/pi/picam/jpg/27112014_1807/a2.jpg
+/home/pi/picam/jpg/27112014_1807/a3.jpg
+/home/pi/picam/jpg/27112014_1807/a4.jpg
+/home/pi/picam/jpg/27112014_1807/a5.jpg
+/home/pi/picam/jpg/27112014_1807/a6.jpg
+/home/pi/picam/jpg/27112014_1807/a7.jpg
+/home/pi/picam/jpg/27112014_1807/a8.jpg
+/home/pi/picam/jpg/27112014_1807/a9.jpg
+/home/pi/picam/jpg/27112014_1807/a10.jpg
+/home/pi/picam/jpg/27112014_1807/a11.jpg
